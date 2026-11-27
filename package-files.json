@@ -1,22 +1,4 @@
 {
- "tool:arch-tool-0023": [
-  {
-   "package": "arch-tool-0023",
-   "paths": [
-    "run.mjs"
-   ],
-   "at": "/opt/arch-tool-0023"
-  }
- ],
- "tool:arch-tool-0024": [
-  {
-   "package": "arch-tool-0024",
-   "paths": [
-    "run.mjs"
-   ],
-   "at": "/opt/arch-tool-0024"
-  }
- ],
  "tool:arch-tool-0025": [
   {
    "package": "arch-tool-0025",
@@ -665,15 +647,6 @@
    "at": "/opt/arch-tool-0504"
   }
  ],
- "tool:arch-tool-0505": [
-  {
-   "package": "arch-tool-0505",
-   "paths": [
-    "run.mjs"
-   ],
-   "at": "/opt/arch-tool-0505"
-  }
- ],
  "tool:arch-tool-0003": [
   {
    "package": "arch-tool-0003",
@@ -1257,6 +1230,69 @@
     "run.mjs"
    ],
    "at": "/opt/arch-tool-0022"
+  }
+ ],
+ "tool:arch-tool-0551": [
+  {
+   "package": "arch-tool-0551",
+   "paths": [
+    "run.mjs"
+   ],
+   "at": "/opt/arch-tool-0551"
+  }
+ ],
+ "tool:arch-tool-0552": [
+  {
+   "package": "arch-tool-0552",
+   "paths": [
+    "run.mjs"
+   ],
+   "at": "/opt/arch-tool-0552"
+  }
+ ],
+ "tool:arch-tool-0553": [
+  {
+   "package": "arch-tool-0553",
+   "paths": [
+    "run.mjs"
+   ],
+   "at": "/opt/arch-tool-0553"
+  }
+ ],
+ "tool:arch-tool-0554": [
+  {
+   "package": "arch-tool-0554",
+   "paths": [
+    "run.mjs"
+   ],
+   "at": "/opt/arch-tool-0554"
+  }
+ ],
+ "tool:arch-tool-0555": [
+  {
+   "package": "arch-tool-0555",
+   "paths": [
+    "run.mjs"
+   ],
+   "at": "/opt/arch-tool-0555"
+  }
+ ],
+ "tool:arch-tool-0023": [
+  {
+   "package": "arch-tool-0023",
+   "paths": [
+    "run.mjs"
+   ],
+   "at": "/opt/arch-tool-0023"
+  }
+ ],
+ "tool:arch-tool-0024": [
+  {
+   "package": "arch-tool-0024",
+   "paths": [
+    "run.mjs"
+   ],
+   "at": "/opt/arch-tool-0024"
   }
  ]
 }
