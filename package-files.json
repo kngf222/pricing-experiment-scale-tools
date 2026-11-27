@@ -1,22 +1,4 @@
 {
- "tool:arch-tool-0001": [
-  {
-   "package": "arch-tool-0001",
-   "paths": [
-    "run.mjs"
-   ],
-   "at": "/opt/arch-tool-0001"
-  }
- ],
- "tool:arch-tool-0002": [
-  {
-   "package": "arch-tool-0002",
-   "paths": [
-    "run.mjs"
-   ],
-   "at": "/opt/arch-tool-0002"
-  }
- ],
  "tool:arch-tool-0003": [
   {
    "package": "arch-tool-0003",
@@ -4497,6 +4479,24 @@
     "run.mjs"
    ],
    "at": "/opt/arch-tool-0500"
+  }
+ ],
+ "tool:arch-tool-0001": [
+  {
+   "package": "arch-tool-0001",
+   "paths": [
+    "run.mjs"
+   ],
+   "at": "/opt/arch-tool-0001"
+  }
+ ],
+ "tool:arch-tool-0002": [
+  {
+   "package": "arch-tool-0002",
+   "paths": [
+    "run.mjs"
+   ],
+   "at": "/opt/arch-tool-0002"
   }
  ]
 }
