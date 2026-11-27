@@ -1,0 +1,56 @@
+{
+ "records": [
+  {
+   "payload": {
+    "kind": "ai-tool-descriptor",
+    "id": "tool:arch-tool-0036",
+    "label": "Scale tool 36",
+    "job": "Scale test tool number 36 (version 1): answers its number, version and the computer it ran on",
+    "status": "active",
+    "input_schema": {
+     "type": "object",
+     "additionalProperties": false,
+     "properties": {
+      "note": {
+       "type": "string"
+      }
+     }
+    },
+    "invoke": {
+     "kind": "container",
+     "capabilities": [],
+     "files": {
+      "package_files": [
+       {
+        "package": "arch-tool-0036",
+        "paths": [
+         "run.mjs"
+        ],
+        "at": "/opt/arch-tool-0036"
+       }
+      ]
+     },
+     "workdir": "/opt/arch-tool-0036",
+     "internet": false,
+     "stdin": {
+      "fill": {
+       "from": "input"
+      }
+     },
+     "stdout": "json",
+     "argv": [
+      "node",
+      "/opt/arch-tool-0036/run.mjs"
+     ]
+    },
+    "needs": {
+     "expected_seconds": 10,
+     "network_egress": false
+    },
+    "placements": [
+     "placement:your-computer"
+    ]
+   }
+  }
+ ]
+}
