@@ -3,9 +3,9 @@
   {
    "payload": {
     "kind": "ai-tool-descriptor",
-    "id": "tool:arch-tool-0072",
-    "label": "Scale tool 72",
-    "job": "Scale test tool number 72 (version 1): answers its number, version and the computer it ran on",
+    "id": "tool:arch-tool-0518",
+    "label": "Scale tool 518",
+    "job": "Scale test tool number 518 (version 1): answers its number, version and the computer it ran on",
     "status": "active",
     "input_schema": {
      "type": "object",
@@ -22,15 +22,15 @@
      "files": {
       "package_files": [
        {
-        "package": "arch-tool-0072",
+        "package": "arch-tool-0518",
         "paths": [
          "run.mjs"
         ],
-        "at": "/opt/arch-tool-0072"
+        "at": "/opt/arch-tool-0518"
        }
       ]
      },
-     "workdir": "/opt/arch-tool-0072",
+     "workdir": "/opt/arch-tool-0518",
      "internet": false,
      "stdin": {
       "fill": {
@@ -40,7 +40,7 @@
      "stdout": "json",
      "argv": [
       "node",
-      "/opt/arch-tool-0072/run.mjs"
+      "/opt/arch-tool-0518/run.mjs"
      ]
     },
     "needs": {
