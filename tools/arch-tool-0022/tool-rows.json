@@ -5,7 +5,7 @@
     "kind": "ai-tool-descriptor",
     "id": "tool:arch-tool-0022",
     "label": "Scale tool 22",
-    "job": "Scale test tool number 22 (version 1): answers its number, version and the computer it ran on",
+    "job": "Scale test tool number 22 (version 2): answers its number, version and the computer it ran on",
     "status": "active",
     "input_schema": {
      "type": "object",
