@@ -1,0 +1,37 @@
+{
+  "_what": "The program this repo's test tools run with.",
+  "programs": {
+    "node": {
+      "fetch": {
+        "macos-aarch64": {
+          "url": "https://nodejs.org/dist/v26.13.0/node-v26.13.0-darwin-arm64.tar.gz",
+          "version": "26.13.0",
+          "blake3": "83953e43803ef8cc00a350d6bc55d5f466281ea51268c8d06740dde84b8e3333",
+          "executable": "bin/node",
+          "checked_against": "https://nodejs.org/dist/v26.13.0/SHASUMS256.txt"
+        },
+        "macos-x86_64": {
+          "url": "https://nodejs.org/dist/v26.13.0/node-v26.13.0-darwin-x64.tar.gz",
+          "version": "26.13.0",
+          "blake3": "be2a02e1ee47044688e916fa5950836e3082cbf935abe0f0d066aefc6f400daf",
+          "executable": "bin/node",
+          "checked_against": "https://nodejs.org/dist/v26.13.0/SHASUMS256.txt"
+        },
+        "linux-x86_64": {
+          "url": "https://nodejs.org/dist/v26.13.0/node-v26.13.0-linux-x64.tar.gz",
+          "version": "26.13.0",
+          "blake3": "fe87dbd0d76de1168c42ae26a2a0eee3aabd698b641e126dfae1f497c8dfa102",
+          "executable": "bin/node",
+          "checked_against": "https://nodejs.org/dist/v26.13.0/SHASUMS256.txt"
+        },
+        "linux-aarch64": {
+          "url": "https://nodejs.org/dist/v26.13.0/node-v26.13.0-linux-arm64.tar.gz",
+          "version": "26.13.0",
+          "blake3": "33e1c0deeca64f313b18beca4c00a406cb21b5d1aa9bbb3d6e4bd995af2cf424",
+          "executable": "bin/node",
+          "checked_against": "https://nodejs.org/dist/v26.13.0/SHASUMS256.txt"
+        }
+      }
+    }
+  }
+}
