@@ -88,5 +88,14 @@
    ],
    "at": "/opt/arch-tool-0010"
   }
+ ],
+ "tool:arch-tool-0011": [
+  {
+   "package": "arch-tool-0011",
+   "paths": [
+    "run.mjs"
+   ],
+   "at": "/opt/arch-tool-0011"
+  }
  ]
 }
